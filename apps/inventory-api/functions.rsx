@@ -1,0 +1,10 @@
+<GlobalFunctions>
+  <RESTQuery
+    id="query1"
+    notificationDuration={4.5}
+    query="https://retoolapi.dev/FX6uY4/inventory_data"
+    resourceName="REST-WithoutResource"
+    resourceTypeOverride=""
+    showSuccessToaster={false}
+  />
+</GlobalFunctions>
